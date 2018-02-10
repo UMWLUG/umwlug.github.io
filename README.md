@@ -1,5 +1,5 @@
 # University of Mary Washington Linux Users Group
-Welcome to the Linux Users Group! Come join us in participating in a variety of activities such as
+Welcome to the UMW Linux Users Group! Come join us in participating in a variety of activities such as
 - Carpooling to the Fredericksburg LUG held once a month
 - Giving each other desktop Linux support
 - Discussing pointers on what new hardware to buy
