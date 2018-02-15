@@ -13,3 +13,5 @@ If you're interested, please follow the Google Form link below to show your inte
 [https://goo.gl/forms/27zPHgQktuPzarR02](https://goo.gl/forms/27zPHgQktuPzarR02)
 
 Share this page with anyone else you may think would be interested!
+
+[Doodle Poll Link for Our First Interest Meeting](https://doodle.com/poll/8hx275c4fzdcbm7m)
