@@ -9,9 +9,10 @@ Welcome to the UMW Linux Users Group! Come join us in participating in a variety
 - Installfests / Distro Launch parties
 And so much more!
 
-If you're interested, please follow the Google Form link below to show your interest and we will go from there.
-[https://goo.gl/forms/27zPHgQktuPzarR02](https://goo.gl/forms/27zPHgQktuPzarR02)
+Meetings will be bi-weekly on **Thursdays** from **1700h - 1800h** 
+
+If you're interested, please follow the Google Form Link to signup for our mailing list.
+[Maling List Signup](https://goo.gl/forms/27zPHgQktuPzarR02)
+
 
 Share this page with anyone else you may think would be interested!
-
-[Doodle Poll Link for Our First Interest Meeting](https://doodle.com/poll/8hx275c4fzdcbm7m)
