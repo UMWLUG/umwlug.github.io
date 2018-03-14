@@ -10,6 +10,7 @@ Welcome to the UMW Linux Users Group! Come join us in participating in a variety
 And so much more!
 
 Meetings will be bi-weekly on **Thursdays** from **1700h - 1800h** 
+Unless otherwise stated in the mailing list. 
 
 If you're interested, please follow the Google Form Link to signup for our mailing list.
 [Maling List Signup](https://goo.gl/forms/27zPHgQktuPzarR02)
