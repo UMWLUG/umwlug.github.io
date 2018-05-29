@@ -12,8 +12,7 @@ And so much more!
 Meetings will be bi-weekly on **Thursdays** from **1700h - 1800h (5:00 p.m. - 6:00 p.m.)** 
 Unless otherwise stated in the mailing list. 
 
-If you're interested, please follow the Google Form Link to signup for our mailing list.
-[Maling List Signup](https://goo.gl/forms/27zPHgQktuPzarR02)
+If you're interested, signup for our [Mailing list](https://goo.gl/forms/27zPHgQktuPzarR02)
 
 
 Share this page with anyone else you may think would be interested!
