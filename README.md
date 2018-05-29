@@ -19,7 +19,7 @@ If you're interested, please follow the Google Form Link to signup for our maili
 Share this page with anyone else you may think would be interested!
 
 # Records from Previous Meetings
-- [19 April 2018 - Discussion about FreeBSD & Android custom roms](https://drive.google.com/open?id=1b1mFKNtIbUSL4tFYysy76P7UkHJ3lwuE)
-- [05 March 2018 - Linux news about gaming & app presentation](https://drive.google.com/open?id=1nFXMCAkLW-U5c03px1z9MeLUatuhecHd)
-- [22 March 2018 - Linux and UNIX - Why they are related, but not the same](https://drive.google.com/file/d/1h0kfgzf9l1wqnNw9rTB5nOmFeCWCeJ8A/view?usp=sharing) 
-- [01 March 2018 - Interest Meeting](https://drive.google.com/file/d/1KiHZod0UhTtVYEqpR6CvgW902cgJx309/view?usp=sharing)
+- [19 April 2018 - Discussion about FreeBSD & Android custom roms](https://drive.google.com/open?id=1pLhuqGyDQ91gqPZQo47DHOa4q20NfzHm)
+- [05 March 2018 - Linux news about gaming & app presentation](https://drive.google.com/open?id=1K5cTI7HNfWGIcaD25a8i61TqWk35Q785)
+- [22 March 2018 - Linux and UNIX - Why they are related, but not the same](https://drive.google.com/open?id=1J7U1PwzzVPEHZecabeVdxclMYc02D473) 
+- [01 March 2018 - Interest Meeting](https://drive.google.com/open?id=1J-OEzreXtbnz9z3HFRIcW01h1SLlRWoN)
