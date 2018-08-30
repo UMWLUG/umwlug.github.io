@@ -9,8 +9,7 @@ Welcome to the UMW Linux Users Group! Come join us in participating in a variety
 - Installfests / Distro Launch parties
 And so much more!
 
-Meetings will be bi-weekly on **Thursdays** from **1700h - 1800h (5:00 p.m. - 6:00 p.m.)** 
-Unless otherwise stated in the mailing list. 
+Meetings will be announced soon! 
 
 If you're interested, signup for our [Mailing list](https://goo.gl/forms/27zPHgQktuPzarR02)
 
