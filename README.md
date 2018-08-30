@@ -1,8 +1,8 @@
 # University of Mary Washington Linux Users Group
-Welcome to the UMW Linux Users Group! Come join us in participating in a variety of activities such as
-- Carpooling to the Fredericksburg LUG held once a month
+Welcome to the UMW Linux Users Group! Come join us in participating in a variety of activities such as: 
+- Carpooling to the [Fredericksburg Linux Users Group](https://www.meetup.com/fredlug/) held once a month
 - Giving each other desktop Linux support
-- Discussing pointers on what new hardware to buy
+- Discussing pointers on what new hardware to buy for the best Linux experience
 - Conversing on the many uses of Linux and **free** software
 - Introducing our non-Linux user friends and colleagues to Linux
 - Discussion on why we use $aDistro instead of $anotherDistro
