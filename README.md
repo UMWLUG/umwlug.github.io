@@ -13,6 +13,8 @@ Meetings will be announced soon!
 
 If you're interested, signup for our [Mailing list](https://goo.gl/forms/27zPHgQktuPzarR02)
 
+We also have a [Telegram Chat](https://t.me/joinchat/IyhYHA0ALEbI94kR00JJqA)
+
 
 Share this page with anyone else you may think would be interested!
 
