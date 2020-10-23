@@ -1,0 +1,10 @@
+Discord_webhook_test.txt
+
+UMW LUG
+
+I've created a discord server for us to use for announcements and discussions. 
+I've made a webhook that sends a discord message in the #Announcements channel whenever the github is updated.
+Admins of this server and any others, the guide at https://support.discord.com/hc/en-us/articles/360045093012
+was quite helpful. Please use this for #github-announcements as needed.
+
+//Michael
