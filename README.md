@@ -12,7 +12,7 @@ And so much more!
 Capture the Flag competition announcements coming soon!
 
 If you're interested, signup for our [Mailing list](https://goo.gl/forms/27zPHgQktuPzarR02)
-
+Join our [Discord](https://discord.gg/gkHcd6b)
 We also have a [Telegram Chat](https://t.me/joinchat/IyhYHA0ALEbI94kR00JJqA)
 
 
